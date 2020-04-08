@@ -1,6 +1,9 @@
-##Hacking Tutorials
+# Hacking Tutorials
 
 https://www.bugcrowd.com/hackers/bugcrowd-university/
 https://www.hacker101.com/videos
 
-
+## Videos
+Ethical Hacking Full Course - Learn Ethical Hacking in 10 Hours - https://www.youtube.com/watch?v=dz7Ntp7KQGA
+Kali Linux Tutorial - https://www.youtube.com/watch?v=lZAoFs75_cs
+Full Ethical Hacking Course - Network Penetration Testing for Beginners - https://www.youtube.com/watch?v=3Kq1MIfTWCE
