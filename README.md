@@ -11,4 +11,9 @@ Kali Linux Tutorial - https://www.youtube.com/watch?v=lZAoFs75_cs
 Full Ethical Hacking Course - Network Penetration Testing for Beginners - https://www.youtube.com/watch?v=3Kq1MIfTWCE
 
 
+## Youtube Channels
 LiveOverflow - https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
+STOK - https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg
+Bugcrowd - https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww
+
+#hacking #security #pentesting #redteam #bugbounty #hack
