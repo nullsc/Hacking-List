@@ -18,4 +18,6 @@ STOK - https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg
 
 Bugcrowd - https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww
 
+Nahamsec - https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw
+
 #hacking #security #pentesting #redteam #bugbounty #hack
