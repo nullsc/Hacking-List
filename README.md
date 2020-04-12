@@ -13,6 +13,7 @@ Full Ethical Hacking Course - Network Penetration Testing for Beginners - https:
 
 ## Youtube Channels
 LiveOverflow - https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
+
 STOK - https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg
 Bugcrowd - https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww
 
