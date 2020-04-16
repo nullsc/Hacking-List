@@ -23,3 +23,6 @@ Bugcrowd - https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww
 Nahamsec - https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw
 
 #hacking #security #pentesting #redteam #bugbounty #hack
+
+## Practise
+https://hackthebox.eu
