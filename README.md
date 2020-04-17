@@ -30,3 +30,6 @@ https://hackthebox.eu
 ## Free Books
 https://docs.google.com/document/d/12l0qN5XnhRfGipICMqdc3pIPZRS-r5dQjpl1VnI-L1I/edit
 
+## General Guides
+https://0x00sec.org/t/how-to-become-a-hacker-from-scratch-full-guide/13278
+
