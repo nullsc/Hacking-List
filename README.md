@@ -1,7 +1,10 @@
 # Hacking Tutorials
 
 https://www.bugcrowd.com/hackers/bugcrowd-university/
+
 https://www.hacker101.com/videos
+
+https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf
 
 ## Videos
 Ethical Hacking Full Course - Learn Ethical Hacking in 10 Hours - https://www.youtube.com/watch?v=dz7Ntp7KQGA
