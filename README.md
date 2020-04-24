@@ -42,3 +42,7 @@ https://0x00sec.org/t/how-to-become-a-hacker-from-scratch-full-guide/13278
 
 https://github.com/EnableSecurity/wafw00f
 
+## Dorks
+
+Google boolean guide - https://ahrefs.com/blog/google-advanced-search-operators/
+
