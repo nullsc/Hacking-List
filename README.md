@@ -46,3 +46,6 @@ https://github.com/EnableSecurity/wafw00f
 
 Google boolean guide - https://ahrefs.com/blog/google-advanced-search-operators/
 
+## Misc
+Report writing - https://blog.cobalt.io/how-to-write-a-great-vulnerability-report-ab8654c6290c
+
