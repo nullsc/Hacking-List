@@ -42,6 +42,10 @@ https://0x00sec.org/t/how-to-become-a-hacker-from-scratch-full-guide/13278
 
 https://github.com/EnableSecurity/wafw00f
 
+Fuzzer - https://github.com/1N3/BlackWidow
+
+Domain enumerator - https://github.com/aboul3la/Sublist3r
+
 ## Dorks
 
 Google boolean guide - https://ahrefs.com/blog/google-advanced-search-operators/
