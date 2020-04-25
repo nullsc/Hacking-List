@@ -8,6 +8,10 @@ https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf
 
 https://0x00sec.org/t/how-to-become-a-hacker-from-scratch-full-guide/13278
 
+https://www.cybrary.it/
+
+http://www.fuzzysecurity.com/tutorials.html
+
 ## Videos
 Ethical Hacking Full Course - Learn Ethical Hacking in 10 Hours - https://www.youtube.com/watch?v=dz7Ntp7KQGA
 
@@ -64,6 +68,12 @@ Domain enumerator - https://github.com/aboul3la/Sublist3r
 Google boolean guide - https://ahrefs.com/blog/google-advanced-search-operators/
 
 XSS - https://github.com/nu11secur1ty/nu11secur1ty/blob/master/XSS%20Dorks/XSS%20Dorks.md
+
+## Programming & Web Dev
+
+Gerneral - https://www.tutorialspoint.com/
+
+Powershell - https://mva.microsoft.com/
 
 ## Misc
 Report writing - https://blog.cobalt.io/how-to-write-a-great-vulnerability-report-ab8654c6290c
