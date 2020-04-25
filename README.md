@@ -28,11 +28,23 @@ Nahamsec - https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw
 #hacking #security #pentesting #redteam #bugbounty #hack
 
 ## Practise
+
+### Sites
 https://hackthebox.eu
 
 http://vulnhub.com/
 
 https://github.com/stephenbradshaw/vulnserver
+
+### Applications
+
+Simple vulnerable server - https://github.com/ins1gn1a/VulnServer-Linux
+
+SSRF - https://github.com/incredibleindishell/SSRF_Vulnerable_Lab
+
+SSTI - https://github.com/DiogoMRSilva/websitesVulnerableToSSTI
+
+XXE - https://github.com/TheTwitchy/vulnd_xxe
 
 ## Free Books
 https://docs.google.com/document/d/12l0qN5XnhRfGipICMqdc3pIPZRS-r5dQjpl1VnI-L1I/edit
