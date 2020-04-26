@@ -4,6 +4,7 @@ https://www.bugcrowd.com/hackers/bugcrowd-university/
 
 https://www.hacker101.com/videos
 
+## Kali Linux 
 https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf
 
 https://0x00sec.org/t/how-to-become-a-hacker-from-scratch-full-guide/13278
@@ -11,6 +12,23 @@ https://0x00sec.org/t/how-to-become-a-hacker-from-scratch-full-guide/13278
 https://www.cybrary.it/
 
 http://www.fuzzysecurity.com/tutorials.html
+
+## Web Security
+
+### SQL Injection
+https://www.owasp.org/index.php/SQL_Injection
+
+https://www.owasp.org/index.php/Blind_SQL_Injection
+
+https://www.owasp.org/index.php/SQL_Injection_Bypassing_WAF
+
+https://www.owasp.org/index.php/Reviewing_Code_for_SQL_Injection
+
+https://cheatsheetseries.owasp.org/cheatsheets/Query_Parameterization_Cheat_Sheet.html
+
+https://cheatsheetseries.owasp.org/cheatsheets/Injection_Prevention_Cheat_Sheet.html
+
+https://github.com/payloadbox/sql-injection-payload-list
 
 ## Videos
 Ethical Hacking Full Course - Learn Ethical Hacking in 10 Hours - https://www.youtube.com/watch?v=dz7Ntp7KQGA
