@@ -15,6 +15,10 @@ http://www.fuzzysecurity.com/tutorials.html
 
 ## Web Security
 
+### XSS
+
+Angular Vectors - https://www.openbugbounty.org/blog/miguelsantareno/cross-site-script-angular-payloads/
+
 ### SQL Injection
 https://www.owasp.org/index.php/SQL_Injection
 
