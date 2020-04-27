@@ -4,6 +4,9 @@ https://www.bugcrowd.com/hackers/bugcrowd-university/
 
 https://www.hacker101.com/videos
 
+https://securitylab.github.com/research/fuzzing-sockets-FTP
+
+
 ## Kali Linux 
 https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf
 
@@ -53,6 +56,10 @@ Bugcrowd - https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww
 
 Nahamsec - https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw
 
+## Mobile Hacking
+
+Android Kernel Exploitation - https://cloudfuzz.github.io/android-kernel-exploitation/
+
 
 ## Practise
 
@@ -88,7 +95,9 @@ https://github.com/EnableSecurity/wafw00f
 
 Fuzzer - https://github.com/1N3/BlackWidow
 
-Domain enumerator - https://github.com/aboul3la/Sublist3r
+Domain Enumerator - https://github.com/aboul3la/Sublist3r
+
+File Uploader - https://github.com/almandin/fuxploider
 
 ## Dorks
 
