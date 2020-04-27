@@ -91,6 +91,16 @@ Google boolean guide - https://ahrefs.com/blog/google-advanced-search-operators/
 
 XSS - https://github.com/nu11secur1ty/nu11secur1ty/blob/master/XSS%20Dorks/XSS%20Dorks.md
 
+
+## Bug bounty Platforms
+
+http://openbugbounty.org/
+
+https://bugcrowd.com/
+
+https://www.hackerone.com/
+
+
 ## Programming & Web Dev
 
 Gerneral - https://www.tutorialspoint.com/
