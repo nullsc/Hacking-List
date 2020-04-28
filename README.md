@@ -126,5 +126,7 @@ Powershell - https://mva.microsoft.com/
 ## Misc
 Report writing - https://blog.cobalt.io/how-to-write-a-great-vulnerability-report-ab8654c6290c
 
+https://packetstormsecurity.com/
+
 
 #hacking #security #pentesting #redteam #bugbounty #hack #awesomehacking
