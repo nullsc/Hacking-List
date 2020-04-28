@@ -20,6 +20,8 @@ http://www.fuzzysecurity.com/tutorials.html
 
 ### XSS
 
+XSS Tutorial - https://excess-xss.com/
+
 Angular Vectors - https://www.openbugbounty.org/blog/miguelsantareno/cross-site-script-angular-payloads/
 
 ### SQL Injection
