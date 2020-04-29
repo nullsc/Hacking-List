@@ -24,6 +24,8 @@ XSS Tutorial - https://excess-xss.com/
 
 Angular Vectors - https://www.openbugbounty.org/blog/miguelsantareno/cross-site-script-angular-payloads/
 
+XSS Vector List - https://github.com/nullsc/Hacking-List/blob/master/XSS/Vectors
+
 ### SQL Injection
 https://www.owasp.org/index.php/SQL_Injection
 
