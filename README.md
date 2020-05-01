@@ -84,9 +84,13 @@ SSTI - https://github.com/DiogoMRSilva/websitesVulnerableToSSTI
 
 XXE - https://github.com/TheTwitchy/vulnd_xxe
 
-## Free Books
+## Free Books and Learning Resources
+
 
 ### Programming
+
+https://www.w3schools.com
+
 Misc collection - https://books.goalkicker.com/
 
 ### Data Science
