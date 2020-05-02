@@ -91,7 +91,9 @@ XXE - https://github.com/TheTwitchy/vulnd_xxe
 
 https://www.w3schools.com
 
-Misc collection - https://books.goalkicker.com/
+https://www.learncpp.com
+
+Misc collection - https://books.goalkicker.com
 
 ### Data Science
 https://docs.google.com/document/d/12l0qN5XnhRfGipICMqdc3pIPZRS-r5dQjpl1VnI-L1I/edit
