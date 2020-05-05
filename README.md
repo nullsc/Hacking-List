@@ -125,6 +125,8 @@ https://bugcrowd.com/
 
 https://www.hackerone.com/
 
+https://www.yeswehack.com/
+
 
 ## Exploit Sites
 
