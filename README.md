@@ -126,6 +126,13 @@ https://bugcrowd.com/
 https://www.hackerone.com/
 
 
+## Exploit Sites
+
+https://www.exploit-db.com/
+
+https://www.vulnerability-lab.com/
+
+
 ## Programming & Web Dev
 
 Gerneral - https://www.tutorialspoint.com/
