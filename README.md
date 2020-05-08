@@ -149,5 +149,5 @@ Report writing - https://blog.cobalt.io/how-to-write-a-great-vulnerability-repor
 
 https://packetstormsecurity.com/
 
-
+http://www.securitytube.net/
 #hacking #security #pentesting #redteam #bugbounty #hack #awesomehacking
