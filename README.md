@@ -97,6 +97,8 @@ https://www.w3schools.com
 
 https://www.learncpp.com
 
+https://www.tutorialspoint.com/python/index.htm
+
 Misc collection - https://books.goalkicker.com
 
 ### Data Science
