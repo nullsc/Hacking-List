@@ -123,6 +123,10 @@ https://github.com/google/clusterfuzz
 
 Fuzzer - https://github.com/1N3/BlackWidow
 
+https://github.com/googleprojectzero/domato
+
+https://github.com/xmendez/wfuzz
+
 
 ## Dorks
 
