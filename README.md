@@ -41,6 +41,11 @@ https://cheatsheetseries.owasp.org/cheatsheets/Injection_Prevention_Cheat_Sheet.
 
 https://github.com/payloadbox/sql-injection-payload-list
 
+### Fuzzers
+
+https://github.com/google/AFL
+
+
 ## Videos
 Ethical Hacking Full Course - Learn Ethical Hacking in 10 Hours - https://www.youtube.com/watch?v=dz7Ntp7KQGA
 
