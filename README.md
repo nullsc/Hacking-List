@@ -41,9 +41,6 @@ https://cheatsheetseries.owasp.org/cheatsheets/Injection_Prevention_Cheat_Sheet.
 
 https://github.com/payloadbox/sql-injection-payload-list
 
-### Fuzzers
-
-https://github.com/google/AFL
 
 
 ## Videos
@@ -114,11 +111,18 @@ https://docs.google.com/document/d/12l0qN5XnhRfGipICMqdc3pIPZRS-r5dQjpl1VnI-L1I/
 
 https://github.com/EnableSecurity/wafw00f
 
-Fuzzer - https://github.com/1N3/BlackWidow
-
 Domain Enumerator - https://github.com/aboul3la/Sublist3r
 
 File Uploader - https://github.com/almandin/fuxploider
+
+### Fuzzers
+
+https://github.com/google/AFL
+
+https://github.com/google/clusterfuzz
+
+Fuzzer - https://github.com/1N3/BlackWidow
+
 
 ## Dorks
 
