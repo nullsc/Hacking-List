@@ -103,6 +103,9 @@ https://www.tutorialspoint.com/python/index.htm
 
 Misc collection - https://books.goalkicker.com
 
+https://teachyourselfcs.com/
+
+
 ### Data Science
 https://docs.google.com/document/d/12l0qN5XnhRfGipICMqdc3pIPZRS-r5dQjpl1VnI-L1I/edit
 
