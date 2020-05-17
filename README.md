@@ -99,6 +99,8 @@ https://www.w3schools.com
 
 https://www.learncpp.com
 
+http://www.cplusplus.com/doc/tutorial/
+
 https://www.tutorialspoint.com/python/index.htm
 
 Misc collection - https://books.goalkicker.com
