@@ -170,4 +170,7 @@ Report writing - https://blog.cobalt.io/how-to-write-a-great-vulnerability-repor
 https://packetstormsecurity.com/
 
 http://www.securitytube.net/
+
+SSH Client - https://www.chiark.greenend.org.uk/~sgtatham/putty/
+
 #hacking #security #pentesting #redteam #bugbounty #hack #awesomehacking
