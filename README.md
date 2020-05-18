@@ -173,4 +173,6 @@ http://www.securitytube.net/
 
 SSH Client - https://www.chiark.greenend.org.uk/~sgtatham/putty/
 
+Bug Bounty Writeups - https://paper.seebug.org/802/
+
 #hacking #security #pentesting #redteam #bugbounty #hack #awesomehacking
