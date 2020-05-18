@@ -132,6 +132,10 @@ https://github.com/googleprojectzero/domato
 
 https://github.com/xmendez/wfuzz
 
+### XSS Tools
+
+https://github.com/menkrep1337/XSSCon
+
 
 ## Dorks
 
