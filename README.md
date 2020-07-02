@@ -6,6 +6,8 @@ https://www.hacker101.com/videos
 
 https://securitylab.github.com/research/fuzzing-sockets-FTP
 
+https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/
+
 
 ## Kali Linux 
 https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf
