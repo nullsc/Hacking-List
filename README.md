@@ -78,6 +78,15 @@ http://vulnhub.com/
 
 https://www.hackthissite.org/
 
+http://crackme.cenzic.com/kelev/view/home.php
+
+http://demo.testfire.net/
+
+http://zero.webappsecurity.com/
+
+https://www.vulnerablewebapps.org/
+
+
 ### Applications
 https://github.com/stephenbradshaw/vulnserver
 
@@ -90,6 +99,8 @@ SSTI - https://github.com/DiogoMRSilva/websitesVulnerableToSSTI
 XXE - https://github.com/TheTwitchy/vulnd_xxe
 
 DVWA - http://www.dvwa.co.uk/
+
+https://github.com/s4n7h0/xvwa
 
 
 ## Free Books and Learning Resources
