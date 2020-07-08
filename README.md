@@ -18,6 +18,7 @@ https://www.cybrary.it/
 
 http://www.fuzzysecurity.com/tutorials.html
 
+
 ## Web Security
 
 ### XSS
@@ -85,6 +86,10 @@ http://demo.testfire.net/
 http://zero.webappsecurity.com/
 
 https://www.vulnerablewebapps.org/
+
+http://www.itsecgames.com/
+
+http://hackyourselffirst.troyhunt.com/
 
 
 ### Applications
