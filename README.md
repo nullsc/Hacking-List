@@ -197,4 +197,6 @@ SSH Client - https://www.chiark.greenend.org.uk/~sgtatham/putty/
 
 Bug Bounty Writeups - https://paper.seebug.org/802/
 
+https://github.com/trimstray/the-book-of-secret-knowledge
+
 #hacking #security #pentesting #redteam #bugbounty #hack #awesomehacking
