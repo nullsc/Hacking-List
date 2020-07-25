@@ -55,6 +55,8 @@ Linux Tutorials - http://linux-training.be/
 
 Full Ethical Hacking Course - Network Penetration Testing for Beginners - https://www.youtube.com/watch?v=3Kq1MIfTWCE
 
+CEHv10 Complete Video Course - https://www.youtube.com/watch?v=jHKcX6hUKOs
+
 
 ## Youtube Channels
 LiveOverflow - https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
