@@ -194,7 +194,7 @@ Powershell - https://mva.microsoft.com/
 ## Misc
 Report writing - https://blog.cobalt.io/how-to-write-a-great-vulnerability-report-ab8654c6290c
 
-https://packetstormsecurity.com/
+Misc - https://packetstormsecurity.com/
 
 http://www.securitytube.net/
 
@@ -203,5 +203,6 @@ SSH Client - https://www.chiark.greenend.org.uk/~sgtatham/putty/
 Bug Bounty Writeups - https://paper.seebug.org/802/
 
 https://github.com/trimstray/the-book-of-secret-knowledge
+
 
 #hacking #security #pentesting #redteam #bugbounty #hack #awesomehacking
