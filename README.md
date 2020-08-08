@@ -72,6 +72,11 @@ Nahamsec - https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw
 Android Kernel Exploitation - https://cloudfuzz.github.io/android-kernel-exploitation/
 
 
+## Reverse Engineering
+
+https://anti-reversing.com/Downloads/Anti-Reversing/The_Ultimate_Anti-Reversing_Reference.pdf
+
+
 ## Practise
 
 ### Sites
