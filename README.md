@@ -166,6 +166,8 @@ Google boolean guide - https://ahrefs.com/blog/google-advanced-search-operators/
 
 XSS - https://github.com/nu11secur1ty/nu11secur1ty/blob/master/XSS%20Dorks/XSS%20Dorks.md
 
+Dork scanner - https://github.com/m3n0sd0n4ld/uDork
+
 
 ## Bug bounty Platforms
 
