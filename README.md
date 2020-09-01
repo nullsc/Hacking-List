@@ -184,6 +184,8 @@ https://www.hackerone.com/
 
 https://www.yeswehack.com/
 
+https://www.intigriti.com/
+
 
 ## Exploit Sites
 
