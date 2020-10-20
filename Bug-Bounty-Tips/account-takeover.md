@@ -19,4 +19,18 @@ Seperartors
 
 `email=victim@example.com%20hacker@example.com`
 
+`email=victim@example.com|hacker@example.com`
+
+Omit domain
+
+`email=victim`
+
+Omit TLD
+
+`email=victim.hck`
+
+JSON
+
+`{"email":["victim@example.com","hacker@example.com"]}`
+
 #bugbounty #bugbountytips #awesome-bug-bounty
