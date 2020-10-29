@@ -102,6 +102,7 @@ https://public-firing-range.appspot.com/
 
 https://tryhackme.com/
 
+https://www.pentestit.ru/
 
 
 ### Applications
