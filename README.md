@@ -44,6 +44,7 @@ https://cheatsheetseries.owasp.org/cheatsheets/Injection_Prevention_Cheat_Sheet.
 
 https://github.com/payloadbox/sql-injection-payload-list
 
+https://www.acunetix.com/blog/articles/exploiting-sql-injection-example
 
 
 ## Videos
