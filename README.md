@@ -77,6 +77,9 @@ Android Kernel Exploitation - https://cloudfuzz.github.io/android-kernel-exploit
 
 https://anti-reversing.com/Downloads/Anti-Reversing/The_Ultimate_Anti-Reversing_Reference.pdf
 
+## System Administration
+
+https://devblogs.microsoft.com/scripting/table-of-basic-powershell-commands/
 
 ## Practise
 
