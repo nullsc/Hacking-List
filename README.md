@@ -81,6 +81,11 @@ https://anti-reversing.com/Downloads/Anti-Reversing/The_Ultimate_Anti-Reversing_
 
 https://devblogs.microsoft.com/scripting/table-of-basic-powershell-commands/
 
+## Networking
+
+Comptia Network+ Guide https://docs.google.com/document/d/19_ym7Q3eFi0IDOf-3WOG1fQ0HyDRS8pDQ28J1q35daI/edit
+
+
 ## Practise
 
 ### Sites
