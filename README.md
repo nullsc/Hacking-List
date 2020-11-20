@@ -68,6 +68,9 @@ Bugcrowd - https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww
 
 Nahamsec - https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw
 
+IppSec - https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
+
+
 ## Mobile Hacking
 
 Android Kernel Exploitation - https://cloudfuzz.github.io/android-kernel-exploitation/
