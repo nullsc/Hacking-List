@@ -213,7 +213,7 @@ https://www.vulnerability-lab.com/
 
 ## Programming & Web Dev
 
-Gerneral - https://www.tutorialspoint.com/
+General - https://www.tutorialspoint.com/
 
 Powershell - https://mva.microsoft.com/
 
@@ -231,4 +231,4 @@ Bug Bounty Writeups - https://paper.seebug.org/802/
 https://github.com/trimstray/the-book-of-secret-knowledge
 
 
-#hacking #security #pentesting #redteam #bugbounty #hack #awesomehacking
+#hacking #security #pentesting #redteam #bugbounty #hack #awesomehacking #cyber
