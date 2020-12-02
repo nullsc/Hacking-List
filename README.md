@@ -91,7 +91,7 @@ Comptia Network+ Guide https://docs.google.com/document/d/19_ym7Q3eFi0IDOf-3WOG1
 
 ## Practise
 
-### Sites
+### Sites (CTF)
 https://hackthebox.eu
 
 http://vulnhub.com/
