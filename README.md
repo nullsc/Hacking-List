@@ -139,6 +139,9 @@ https://github.com/webpwnized/mutillidae
 
 ## Free Books and Learning Resources
 
+### Security
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-857-network-and-computer-security-spring-2014/
 
 ### Programming
 
