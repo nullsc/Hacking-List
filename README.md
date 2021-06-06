@@ -46,6 +46,8 @@ https://github.com/payloadbox/sql-injection-payload-list
 
 https://www.acunetix.com/blog/articles/exploiting-sql-injection-example
 
+### General
+OWASP Pentesting checklist - https://owasp.org/www-project-web-security-testing-guide/assets/archive/OWASP_Web_Application_Penetration_Checklist_v1_1.pdf
 
 ## Videos
 Ethical Hacking Full Course - Learn Ethical Hacking in 10 Hours - https://www.youtube.com/watch?v=dz7Ntp7KQGA
