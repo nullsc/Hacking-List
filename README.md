@@ -90,6 +90,9 @@ https://devblogs.microsoft.com/scripting/table-of-basic-powershell-commands/
 
 Comptia Network+ Guide https://docs.google.com/document/d/19_ym7Q3eFi0IDOf-3WOG1fQ0HyDRS8pDQ28J1q35daI/edit
 
+## Blue Team
+
+Wireshark - https://www.malware-traffic-analysis.net/
 
 ## Practise
 
