@@ -60,6 +60,8 @@ Full Ethical Hacking Course - Network Penetration Testing for Beginners - https:
 
 CEHv10 Complete Video Course - https://www.youtube.com/watch?v=jHKcX6hUKOs
 
+Web Application Hacking - https://www.youtube.com/watch?v=X4eRbHgRawI
+
 
 ## Youtube Channels
 LiveOverflow - https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
