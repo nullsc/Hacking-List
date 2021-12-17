@@ -22,7 +22,6 @@ http://www.fuzzysecurity.com/tutorials.html
 ## Web Security
 
 ### XSS
-
 XSS Tutorial - https://excess-xss.com/
 
 Angular Vectors - https://www.openbugbounty.org/blog/miguelsantareno/cross-site-script-angular-payloads/
@@ -55,6 +54,8 @@ Ethical Hacking Full Course - Learn Ethical Hacking in 10 Hours - https://www.yo
 Kali Linux Tutorial - https://www.youtube.com/watch?v=lZAoFs75_cs
 
 Linux Tutorials - http://linux-training.be/
+
+Linux Terminal Tutorial - https://www.youtube.com/watch?v=1hvVcEhcbLM
 
 Full Ethical Hacking Course - Network Penetration Testing for Beginners - https://www.youtube.com/watch?v=3Kq1MIfTWCE
 
