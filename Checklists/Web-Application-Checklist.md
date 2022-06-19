@@ -6,4 +6,13 @@ Generic checklist for web application penetration testing
 
 - [ ] Check client documentation
 - [ ] Get API schema
-- [ ] Get sub domain list
+- [ ] Get subdomain list
+
+## Scans
+
+- [ ] Basic nmap scan
+- [ ] Nikto scan eg. nikto -h [URL]
+- [ ] Nessus scan
+- [ ] BurpSuite scan
+- [ ] Harvester scan
+
