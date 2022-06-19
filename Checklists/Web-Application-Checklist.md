@@ -4,6 +4,6 @@ Generic checklist for web application penetration testing
 
 ## Prerequisites
 
-- [] Check client documentation
-- [] Get API schema
-- [] Get sub domain list
+- [ ] Check client documentation
+- [ ] Get API schema
+- [ ] Get sub domain list
