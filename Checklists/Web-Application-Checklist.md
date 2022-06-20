@@ -15,4 +15,9 @@ Generic checklist for web application penetration testing
 - [ ] Nessus scan
 - [ ] BurpSuite scan
 - [ ] Harvester scan
+- [ ] ZAP scan
+
+## Config Issues
+- [ ] Allows clickjacking
+- [ ] Default/installation pages left
 
