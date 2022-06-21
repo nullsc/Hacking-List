@@ -17,6 +17,7 @@ Generic checklist for web application penetration testing
 - [ ] Harvester scan
 - [ ] ZAP scan
 - [ ] GoBuster/Dirb scan
+- [ ] Public Git repo
 
 ## Config Issues
 - [ ] Allows clickjacking
