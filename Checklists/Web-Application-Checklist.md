@@ -18,9 +18,14 @@ Generic checklist for web application penetration testing
 - [ ] ZAP scan
 - [ ] GoBuster/Dirb scan
 - [ ] Public Git repo
+- [ ] robots.txt
 
 ## Config Issues
 - [ ] Allows clickjacking
 - [ ] Default/installation pages left
 - [ ] Sensitive cookies missing http only/secure flag 
+
+## Login Page
+- [ ] Can users be bruteforced
+- [ ] Username enumeration
 
