@@ -18,6 +18,7 @@ Generic checklist for web application penetration testing
 - [ ] ZAP scan
 - [ ] GoBuster/Dirb scan
 - [ ] Public Git repo
+- [ ] .git file on webserver
 - [ ] robots.txt
 
 ## Config Issues
@@ -29,3 +30,5 @@ Generic checklist for web application penetration testing
 - [ ] Can users be bruteforced
 - [ ] Username enumeration
 
+## Injection
+- [ ] Check parameters for IDOR
