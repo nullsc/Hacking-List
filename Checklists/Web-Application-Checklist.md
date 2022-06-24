@@ -14,7 +14,7 @@ Generic checklist for web application penetration testing
 - [ ] Nikto scan eg. nikto -h [URL]
 - [ ] Nessus scan
 - [ ] BurpSuite scan
-- [ ] Harvester scan
+- [ ] Harvester/Dork scan
 - [ ] ZAP scan
 - [ ] GoBuster/Dirb scan
 - [ ] Public Git repo
@@ -32,3 +32,5 @@ Generic checklist for web application penetration testing
 
 ## Injection
 - [ ] Check parameters for IDOR
+- [ ] XSS
+- [ ] SQL injection
