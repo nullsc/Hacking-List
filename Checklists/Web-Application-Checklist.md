@@ -25,6 +25,7 @@ Generic checklist for web application penetration testing
 ## Config Issues
 - [ ] Allows clickjacking
 - [ ] Default/installation pages left
+- [ ] Default/debug user accounts active 
 - [ ] Sensitive cookies missing http only/secure flag 
 
 ## Login Page
