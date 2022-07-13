@@ -13,7 +13,7 @@ Carbon Copy
 
 `email=victim@example.com%0a%0dcchacker@example.com`
 
-Seperartors
+Separators
 
 `email=victim@example.com,hacker@example.com`
 
