@@ -32,8 +32,10 @@ Generic checklist for web application penetration testing
 - [ ] Can users be bruteforced
 - [ ] Username enumeration
 - [ ] User registration, overwrite existing names using space/null characters
+- [ ] Userpassword reset vulnerabilities
 
 ## Injection
 - [ ] Check parameters for IDOR
 - [ ] XSS
 - [ ] SQL injection
+- [ ] URL redirection
