@@ -23,16 +23,18 @@ Generic checklist for web application penetration testing
 - [ ] robots.txt
 
 ## Config Issues
-- [ ] Allows clickjacking
+- [ ] Allows clickjacking (page embedding)
 - [ ] Default/installation pages left
 - [ ] Default/debug user accounts active 
-- [ ] Sensitive cookies missing http only/secure flag 
+- [ ] Sensitive cookies missing http only/secure flag
+- [ ] Out of date software
 
 ## Login Page
 - [ ] Can users be bruteforced
 - [ ] Username enumeration
 - [ ] User registration, overwrite existing names using space/null characters
-- [ ] Userpassword reset vulnerabilities
+- [ ] User password reset vulnerabilities
+- [ ] Captcha bypass
 
 ## Injection
 - [ ] Check parameters for IDOR
