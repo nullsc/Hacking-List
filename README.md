@@ -128,6 +128,7 @@ https://picoctf.org/
 
 
 ### Applications
+
 https://github.com/stephenbradshaw/vulnserver
 
 Simple vulnerable server - https://github.com/ins1gn1a/VulnServer-Linux
@@ -144,6 +145,61 @@ https://github.com/s4n7h0/xvwa
 
 https://github.com/webpwnized/mutillidae
 
+AWSGoat : A Damn Vulnerable AWS Infrastructure
+
+AzureGoat : A Damn Vulnerable Azure Infrastructure
+
+Webpentest: A Damn Vulnerable Web Application
+
+API: A Damn Vulnerable Web Sockets
+
+Mobile: Damn Vulnerable Hybrid Mobile App
+
+CICD: Deliberately vulnerable CI/CD environment
+
+GraphQL: Damn Vulnerable GraphQL Application
+
+Webservice: Damn Vulnerable Web Services
+
+VamPI: Vulnerable API
+
+DVSA: Damn Vulnerable Serverless Application
+
+DVTA: DVTA is a Vulnerable Thick Client Application
+
+DVJA: Damn Vulnerable Java Application
+
+DVID: Damn Vulnerable IoT Device
+
+DVPWA: Damn Vulnerable Python Web Application
+
+DVAS: Damn Vulnerable Application Scanner
+
+DVB: Damn Vulnerable Bank
+
+DVWPS: Damn Vulnerable WordPress Site
+
+DVNA: Damn Vulnerable NodeJS Application
+
+DVRA: Damn Vulnerable Ruby on Rails
+
+DVGM: Damn Vulnerable Grade Management
+
+Tiredful
+
+DVCSharp: Damn Vulnerable C# Application
+
+DVHMA: Damn Vulnerable Hybrid Mobile App
+
+DVIA: Damn Vulnerable iOS App
+
+DVIA2: Damn Vulnerable iOS App 2
+
+DVRF: Damn Vulnerable Router Firmware
+
+DVFaaS: Damn Vulnerable Functions as a Service
+
+DVCA: Damn Vulnerable Cloud Application
 
 ## Free Books and Learning Resources
 
