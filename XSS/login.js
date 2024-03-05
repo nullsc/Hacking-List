@@ -17,7 +17,11 @@ box.style.top = "50px";
 box.style.margin = "0 auto";
 box.style.background = "green";
 box.style.padding = "10px";
+box.style.zIndex = "99999";
+box.style.left = "50%";
+box.style.transform = "translateX(-50%)";
 document.body.appendChild(box);
+document.body.style.overflow = "hidden"; // lock the page scroll
 
 document.querySelector("#xssbutton").addEventListener("click", (e) => {
 	e.stopPropagation();
