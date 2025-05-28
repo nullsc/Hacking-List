@@ -10,6 +10,18 @@ tcpdump -i eth0
 
 netdiscover
 
+## Scanning
+
+nbtscan 192.168.1.1/24
+
+nbtscan-unixwiz 192.168.1.1/24
+
+nmap -sSV --open -iL ips.txt -oA output
+
+sudo nmap --script broadcast-dhcp-discover
+
+ping 255.255.255.255
+
 ## Responder
 
 ### Analyze Mode
@@ -20,19 +32,13 @@ responder -I eth0 -wFP
 ### Force Basic Auth
 responder -I eth0 -wbFP
 
-## Scanning
-
-nbtscan 192.168.1.1/24
-
-nbtscan-unixwiz 192.168.1.1/24
-
-nmap -sSV --open -iL ips.txt -oA output
-
 
 # SSH Tunneling
 
 ### Socks proxy
-ssh -D 8080 root@127.0.0.1
+ssh -D 8080 root@<ip>
+
+Set Firefox network settings to use socks5 proxy 127.0.0.1 8080, must remove the HTTP proxy
 
 # Dumping
 
