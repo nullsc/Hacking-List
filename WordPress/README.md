@@ -1,13 +1,25 @@
 # WordPress Penetration Testing
 
-# Login
+## Login
 
 /wp-admin
 
-/wp-login
+/wp-admin/login.php
 
-# Interesting Files & Folders
+/wp-login.php
 
+/xmlrpc.php
+
+/wp-signup.php
+
+
+## Interesting Files & Folders
+
+/feed
+
+/readme.html
+
+/wp-cron.php
 
 
 ## WPScan
