@@ -82,6 +82,25 @@ Looks for LSASS secrets, includes tokens and plaintext passwords stored in memor
 
 Pass the hash.
 
+**Protocols**: {smb,rdp,winrm,ssh,ldap,mssql,ftp}
+
+* **-u**: username
+* **-p**: text password
+* **--local-auth**: local auth, not domain auth
+* **-x**: command execution
+* **-X**: powershell command execution
+  * Works better with winrm
+* **-d**: domain
+
+# smbmap
+
+* **-H**: host
+* **--host-file**: hosts file
+* **-u**: username
+* **-p**: text password or NT:LM hash
+* **-d**: domain
+
+
 # Windows Hashes
 
 ## NTLM
@@ -91,6 +110,7 @@ Local user hash, can be relayed to hosts with SMB signing disabled.
 
 Name:RID (relative identifier):LM hash:NT hash
 
+## RID
 
-
-
+* **500**: Administrator
+* **501**: Guest
