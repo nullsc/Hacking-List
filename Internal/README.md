@@ -24,6 +24,8 @@
 
 `ping 255.255.255.255`
 
+`masscan`
+
 ## Recon
 
 `enum4linux -a <ip>`
@@ -44,13 +46,16 @@ Get IP and hostname
 ### Force Basic Auth
 `responder -I eth0 -wbFP`
 
+### DHCP
+`responder -I eth0 -wdF`
+
 
 # SSH Tunneling
 
 ### Socks proxy
 `ssh -D 8080 root@<ip>`
 
-Set Firefox network settings to use socks5 proxy 127.0.0.1 8080, must remove the HTTP proxy
+Set Firefox network settings to use socks5 proxy 127.0.0.1 8080, must remove the HTTP proxy if present
 
 # Dumping
 
