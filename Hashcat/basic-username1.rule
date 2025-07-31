@@ -1,0 +1,13 @@
+# Basic rule to be used with NTDS.dit usernames
+:
+l
+u
+# remove some chars
+[l
+[[l
+[
+[[
+[]l
+[[]l
+[]
+[[]
