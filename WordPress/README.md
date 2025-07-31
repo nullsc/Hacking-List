@@ -12,6 +12,7 @@
 
 /wp-signup.php
 
+/wp-register.php
 
 ## Interesting Files & Folders
 
@@ -20,6 +21,8 @@
 /readme.html
 
 /wp-cron.php
+
+/wp-json
 
 
 ## WPScan
