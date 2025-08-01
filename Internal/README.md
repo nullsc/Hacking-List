@@ -34,6 +34,8 @@
 
 `crackmapexec smb <ip>`
 
+`nxc smb <ip>`
+
 Get IP and hostname
 
 ## Responder
@@ -78,6 +80,8 @@ Local SAM passwords, NTLM
 Looks for LSASS secrets, includes tokens and plaintext passwords stored in memory.
 
 # Bloodhound
+
+Bloodhound collector
 
 # crackmapexec
 
