@@ -40,6 +40,12 @@ Generic checklist for web application penetration testing
 - [ ] Mass creations of new accounts
 - [ ] Logical error enabled verification of new accounts
 
+## User Account Page
+
+- [ ] Can't change password
+- [ ] Can change password without knowing the current the one
+- [ ] No MFA supported
+
 ## Injection
 
 - [ ] Check parameters for IDOR
