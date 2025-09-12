@@ -5,6 +5,7 @@ Generic checklist for web application penetration testing
 ## Prerequisites
 
 - [ ] Check client documentation
+- [ ] Get user accounts if required
 - [ ] Get API schema
 - [ ] Get subdomain list
 
@@ -14,6 +15,7 @@ Generic checklist for web application penetration testing
 - [ ] Nikto scan eg. nikto -h [URL]
 - [ ] Nessus scan
 - [ ] BurpSuite scan
+  - [ ] Discover Content 
 - [ ] Harvester/Dork scan
 - [ ] ZAP scan
 - [ ] GoBuster/Dirb scan
@@ -22,7 +24,7 @@ Generic checklist for web application penetration testing
 - [ ] WordPress scan
 - [ ] robots.txt
 
-## Config Issues
+## Config Issues/HTTP Headers
 - [ ] Allows clickjacking (page embedding)
 - [ ] Default/installation pages left
 - [ ] Default/debug user accounts active 
@@ -45,6 +47,7 @@ Generic checklist for web application penetration testing
 - [ ] Can't change password
 - [ ] Can change password without knowing the current the one
 - [ ] No MFA supported
+- [ ] Multiple users can login at the same time
 
 ## Injection
 
