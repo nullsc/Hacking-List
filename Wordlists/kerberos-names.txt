@@ -10,6 +10,7 @@ temp
 tempuser
 linkedin
 reception
+foh
 boardroom
 webcam
 sa
@@ -17,6 +18,7 @@ mysql
 mssql
 sql
 sql_svc
+postgres
 api
 api_svc
 jobs
@@ -25,8 +27,13 @@ crm
 aws
 azure
 cloud
+gcp
 backup
+backupoperator
+operator
 sophos
 qualys
 mail
 email
+printer
+ricoh
