@@ -142,6 +142,10 @@ Creating a LNK file in an SMB share with WRITE privileges, need to run Responder
 * **-p**: text password or NT:LM hash
 * **-d**: domain
 
+# SNMP Walk
+
+`snmpwalk -v 1 -c public <IP>`
+
 
 # Windows Hashes
 
