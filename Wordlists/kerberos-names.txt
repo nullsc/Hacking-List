@@ -2,6 +2,7 @@ guest
 admin
 administrator
 qadmin
+radmin
 test
 testuser
 setup
@@ -12,6 +13,8 @@ linkedin
 reception
 foh
 boardroom
+meetingroom
+meetingroom2
 webcam
 sa
 mysql
@@ -32,8 +35,12 @@ backup
 backupoperator
 operator
 sophos
+nessus
 qualys
 mail
 email
 printer
+printer2
 ricoh
+system
+system$
