@@ -13,9 +13,11 @@ linkedin
 reception
 foh
 boardroom
+conferenceroom
 meetingroom
 meetingroom2
 webcam
+webex
 sa
 mysql
 mssql
@@ -26,6 +28,7 @@ api
 api_svc
 jobs
 noreply
+subscribe
 crm
 aws
 azure
@@ -37,6 +40,7 @@ operator
 sophos
 nessus
 qualys
+scanner
 mail
 email
 printer
