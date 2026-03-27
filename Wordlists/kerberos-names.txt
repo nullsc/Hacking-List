@@ -48,3 +48,7 @@ printer2
 ricoh
 system
 system$
+laptop
+exchange
+msexchange
+dbserver
